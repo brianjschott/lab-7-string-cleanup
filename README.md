@@ -1,4 +1,6 @@
-## Data Science - Handout #6 - Data Cleanup Problems
+## Data Science - Lab #7 - Data Cleanup Problems
+
+#### Complete Handout #6
 
 **Instructions**: Read the following problems. Using the pseudocode you wrote on the worksheet, write the code to implement these solutions. Each of these should be written as functions that return a result and should include comments.
 
