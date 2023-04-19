@@ -2,7 +2,9 @@
 
 #### Complete Handout #6
 
-**Instructions**: Read the following problems. Using the pseudocode you wrote on the worksheet, write the code to implement these solutions. Each of these should be written as functions that return a result and should include comments.
+**Instructions**: Read the following problems. Using the pseudocode you wrote on the worksheet, write the code to implement these solutions. THEN, draft at least three test cases *USING A VARIETY OF INPUTS* for each method. Each of these should be written as functions that return a result and should include comments.
+
+
 
 1. Given a first and last name as a String, split it into a separate first and last name variable with the first letter of each capitalized.
 
